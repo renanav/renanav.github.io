@@ -6757,9 +6757,6 @@ button.close {
     display: none !important;
   }
 }
+
+
 /*# sourceMappingURL=bootstrap.css.map */
-#amazon{
-  height: 100px;
-  width: 100px;
-  object-fit: contain;
-}
