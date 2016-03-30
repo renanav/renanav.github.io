@@ -476,10 +476,25 @@ body {
 }
 
 .amazon{
-  height: 235.297px;
-  width: 437px;
+  height: 246.25px;
+  width: 100%;
 }
+
+#profile-picture{
+  width: 450px;
+  height: 550px;
+	border-radius: 50% / 50%;
+}
+
+/*.header-content-inner{
+  padding-top: 305px;
+}*/
 /*.project-image{
   width: 100%
   height: 220px;
 }*/
+
+#amazon{
+  height: 100%;
+  width: 100%;
+}
