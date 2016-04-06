@@ -485,7 +485,13 @@ body {
 
 }
 
+.fa-github{
+  color: black;
+}
 
+.fa-linkedin{
+  color: #0077B5;
+}
 /*.header-content-inner{
   padding-top: 305px;
 }*/
