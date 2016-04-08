@@ -15,9 +15,9 @@ body {
 }
 
 hr {
-    max-width: 50px;
+    max-width: 90vw;
     border-color: #f05f40;
-    border-width: 3px;
+    border-width: 2px;
 }
 
 hr.light {
@@ -175,7 +175,7 @@ aside {
 header {
     position: relative;
     width: 100%;
-    min-height: auto;
+    height: 100%;
     text-align: center;
     color: #fff;
     background-image: url(../img/header.jpg);
@@ -478,7 +478,8 @@ body {
 #profile-picture{
   width: 450px;
   height: 550px;
-	border-radius: 50% / 50%;
+  margin-left: 0%;
+  float: right;
 }
 
 .project-title{
@@ -495,6 +496,23 @@ body {
 
 #contact{
   margin-right: 7em !important;
+}
+
+#full-stack{
+  text-align: center;
+}
+
+#renan-h1{
+  margin-top: 25% !important;
+}
+
+#who-p{
+  display: inline;
+  color: black;
+}
+
+#who{
+  margin-left: -15%;
 }
 /*.header-content-inner{
   padding-top: 305px;
