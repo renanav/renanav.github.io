@@ -546,3 +546,11 @@ color: black;
   margin-right: auto;
   display: block;
     }
+
+#services{
+  background-color: #f05f40;
+}
+
+.fa-html5{
+  color: black;
+}
