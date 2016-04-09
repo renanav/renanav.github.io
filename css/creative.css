@@ -538,3 +538,9 @@ color: black;
 .bottom-row{
   margin-top: -4%;
 }
+
+#programming-gif{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+    }
