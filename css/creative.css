@@ -503,7 +503,9 @@ body {
 }
 
 #renan-h1{
-  margin-top: 0% !important;
+  margin-top: 2% !important;
+  src: local('Chintzy.ttf')
+  font-family: Chintzy;
 }
 
 #who-p{
