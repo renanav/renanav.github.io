@@ -549,7 +549,15 @@ color: black;
 
 #services{
   background-color: #f05f40;
+  margin-top: 2px;
+  border-top-style: ridge;
+  border-top-color: firebrick;
+  border-bottom-style: ridge;
+  border-bottom-color: silver;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
+
 
 .fa-html5{
   color: black;
