@@ -494,19 +494,19 @@ body {
   color: #0077B5;
 }
 
-#contact{
+/*#contact{
   margin-right: 7em !important;
-}
+}*/
 
 #full-stack{
   text-align: center;
 }
 
-#renan-h1{
-  margin-top: 2% !important;
+/*#renan-h1{
+  margin-top: 1.5em;
   src: local('Chintzy.ttf')
   font-family: Chintzy;
-}
+}*/
 
 #who-p{
 text-align: left;
