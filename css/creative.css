@@ -521,9 +521,9 @@ line-height: 2;
 }
 
 #bootstrap-icon{
-  width: 50px;
-  height: 50px;
-  margin-top: -30px;
+  width: 56px;
+  height: 53px;
+  margin-top: -31px;
 }
 
 #css3-icon{
@@ -531,15 +531,12 @@ line-height: 2;
 }
 
 .icon{
-  height: 60px;
+  height: 56px;
+  width: 56px;
 }
 
 #ruby-icon{
   height: 55px;
-}
-
-.bottom-row{
-  margin-top: -4%;
 }
 
 #programming-gif{
@@ -571,4 +568,9 @@ line-height: 2;
 
 #renan-h1{
   font-family: Chintzy;
+}
+
+.bottom-hr{
+  border-color: black;
+  border-width: 0.1px;
 }
