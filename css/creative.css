@@ -511,6 +511,7 @@ body {
 #who-p{
 text-align: left;
 color: black;
+line-height: 2;
 }
 
 #who{
@@ -530,11 +531,11 @@ color: black;
 }
 
 .icon{
-  height: 66px;
+  height: 60px;
 }
 
 #ruby-icon{
-  height: 60px;
+  height: 55px;
 }
 
 .bottom-row{
@@ -561,4 +562,13 @@ color: black;
 
 .fa-html5{
   color: black;
+}
+
+@font-face{
+  font-family: Chintzy;
+  src: url('./fonts/chintzy.ttf');
+}
+
+#renan-h1{
+  font-family: Chintzy;
 }
