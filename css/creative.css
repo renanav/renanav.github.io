@@ -476,8 +476,8 @@ body {
 }
 
 #profile-picture{
-  width: 450px;
-  height: 550px;
+  width: 400px;
+  height: 500px;
   margin-left: 0%;
   float: right;
 }
@@ -546,7 +546,7 @@ line-height: 2;
     }
 
 #services{
-  background-color: #f05f40;
+  background-color: #5CBCC9;
   margin-top: 2px;
   border-top-style: ridge;
   border-top-color: firebrick;
@@ -573,4 +573,9 @@ line-height: 2;
 .bottom-hr{
   border-color: black;
   border-width: 0.1px;
+}
+
+#my-projects{
+  background-color: #80ABCD;
+  width: 100vw;
 }
