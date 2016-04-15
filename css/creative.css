@@ -16,12 +16,12 @@ body {
 
 hr {
     max-width: 90vw;
-    border-color: #f05f40;
+    border-color: #104064;
     border-width: 2px;
 }
 
 hr.light {
-    border-color: #fff;
+    border-color: #104064;
 }
 
 a {
@@ -512,6 +512,7 @@ body {
 text-align: left;
 color: black;
 line-height: 2;
+font-size: 1em;
 }
 
 #who{
@@ -578,4 +579,5 @@ line-height: 2;
 #my-projects{
   background-color: #80ABCD;
   width: 100vw;
+  padding-top: 3vh;
 }
