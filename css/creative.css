@@ -509,10 +509,11 @@ body {
 }*/
 
 #who-p{
-text-align: left;
-color: black;
+text-align: justify;
+color: white;
 line-height: 2;
-font-size: 1em;
+font-size: 1.2em;
+
 }
 
 #who{
@@ -580,4 +581,12 @@ font-size: 1em;
   background-color: #80ABCD;
   width: 100vw;
   padding-top: 3vh;
+}
+
+.content-paragraph{
+  text-align: justify !important;
+}
+
+#matrix-paragraph{
+  text-align: center;
 }
