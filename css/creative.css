@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #1a1aff;
 }
 
 h1,
@@ -590,4 +590,12 @@ font-size: 1.2em;
 
 .fa-html5{
   color: black;
+}
+
+a p{
+  color: black;
+}
+
+a p:hover{
+  color: #1a1aff;
 }
