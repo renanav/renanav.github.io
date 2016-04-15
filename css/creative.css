@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+    color: #000033;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -486,14 +486,6 @@ body {
 
 }
 
-.fa-github{
-  color: black;
-}
-
-.fa-linkedin{
-  color: #0077B5;
-}
-
 /*#contact{
   margin-right: 7em !important;
 }*/
@@ -559,9 +551,6 @@ font-size: 1.2em;
 }
 
 
-.fa-html5{
-  color: black;
-}
 
 @font-face{
   font-family: Chintzy;
@@ -589,4 +578,16 @@ font-size: 1.2em;
 
 #matrix-paragraph{
   text-align: center;
+}
+
+.fa-github{
+  color: black;
+}
+
+.fa-linkedin{
+  color: black;
+}
+
+.fa-html5{
+  color: black;
 }
