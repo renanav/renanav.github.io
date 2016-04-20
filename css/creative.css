@@ -533,12 +533,6 @@ font-size: 1.2em;
   height: 55px;
 }
 
-#programming-gif{
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-    }
-
 #services{
   background-color: #5CBCC9;
   margin-top: 2px;
@@ -550,7 +544,11 @@ font-size: 1.2em;
   padding-bottom: 1em;
 }
 
-
+#love{
+  color:red;
+  font-size: 1.8em;
+  padding-bottom: 7%;
+}
 
 @font-face{
   font-family: Chintzy;
