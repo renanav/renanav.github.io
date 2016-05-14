@@ -514,6 +514,11 @@ font-size: 1.2em;
   max-width: 50%;
 }
 
+#my-projects-h2{
+  margin-bottom: 2%;
+  font-weight: 700;
+}
+
 #bootstrap-icon{
   width: 56px;
   height: 53px;
