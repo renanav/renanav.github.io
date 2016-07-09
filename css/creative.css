@@ -517,15 +517,13 @@ font-size: 1.2em;
   display: inline;
   max-width: 50%;
 }
-#gradient-banner-div{
-    width: 100vw;
-}
 
-#my-projects-h2{
-  /*margin-bottom: 2%;*/
-  font-weight: 700;
-  color: white;
-  text-align: center;
+/*#gradient-banner-div {
+    width: 100vw;
+}*/
+
+#gradient-banner {
+  width: 100vw;
 }
 
 #bootstrap-icon{
@@ -572,9 +570,6 @@ font-size: 1.2em;
   font-family: Chintzy;
 }
 
-#gradient-banner {
-  width: 100vw;
-}
 [id="services"] .row {
   margin-bottom: 3%;
 }
@@ -584,7 +579,7 @@ font-size: 1.2em;
 }
 
 .technologies-icons {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
   padding-bottom: 0.5%
 }
 
@@ -595,35 +590,51 @@ font-size: 1.2em;
 }
 
 #my-projects {
-  background-color: #80ABCD;
+  background-color: black;
   width: 100vw;
   padding-top: 3vh;
 }
 
-.content-paragraph{
+#my-projects-h2 {
+  /*margin-bottom: 2%;*/
+  font-weight: 700;
+  color: white;
+  text-align: center;
+  background: url("img/portfolio/fade-inverted.jpeg");
+}
+
+#my-projects .row {
+  background: url("img/portfolio/fade-inverted.jpeg");
+}
+
+div div img {
+  height: 50%;
+}
+
+.content-paragraph {
   text-align: justify !important;
 }
 
-#matrix-paragraph{
+#matrix-paragraph {
   text-align: center;
 }
 
-.fa-github{
+.fa-github {
   color: black;
 }
 
-.fa-linkedin{
+.fa-linkedin {
   color: black;
 }
 
-.fa-html5{
+.fa-html5 {
   color: black;
 }
 
-a p{
+a p {
   color: black;
 }
 
-a p:hover{
+a p:hover {
   color: #1a1aff;
 }
