@@ -546,12 +546,12 @@ font-size: 1.2em;
 }
 
 #services{
-  background-color: #5CBCC9;
-  margin-top: 2px;
+  background-color: black;
+  /*margin-top: 2px;
   border-top-style: ridge;
   border-top-color: firebrick;
   border-bottom-style: ridge;
-  border-bottom-color: silver;
+  border-bottom-color: silver;*/
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -579,8 +579,8 @@ font-size: 1.2em;
 }
 
 .technologies-icons {
-  border-color: black;
-  border-width: 0.1px;
+  border-bottom: 1px solid black;
+padding-bottom: 0.5%
 }
 
 .technologies-icons li {
