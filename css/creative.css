@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+    font-family: 'Merriweather','Helvetica Neue',Arial,sans-serif;
 }
 
 ul {
@@ -46,13 +46,15 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Raleway','Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
     margin-bottom: 20px;
     font-size: 16px;
     line-height: 1.5;
+    font-family: 'Merriweather','Open Sans','Helvetica Neue',Arial,sans-serif;;
+    font-weight: 400;
 }
 
 .bg-primary {
@@ -566,9 +568,9 @@ font-size: 1.2em;
   src: url('./fonts/chintzy.ttf');
 }
 
-#renan-h1{
+/*#renan-h1{
   font-family: Chintzy;
-}
+}*/
 
 [id="services"] .row {
   margin-bottom: 3%;
@@ -593,18 +595,21 @@ font-size: 1.2em;
   background-color: black;
   width: 100vw;
   padding-top: 3vh;
+  /*background: url("img/portfolio/fade-inverted.jpeg");*/
 }
 
 #my-projects-h2 {
   /*margin-bottom: 2%;*/
   font-weight: 700;
+  font-size: 50px;
   color: white;
   text-align: center;
-  background: url("img/portfolio/fade-inverted.jpeg");
+  /*background: url("img/portfolio/fade-inverted.jpeg");*/
 }
 
 #my-projects .row {
-  background: url("img/portfolio/fade-inverted.jpeg");
+  background: url("../img/portfolio/fade-inverted.jpeg");
+  padding-bottom: 2%;
 }
 
 div div img {
@@ -628,7 +633,7 @@ div div img {
 }
 
 .fa-html5 {
-  color: black;
+  color: white;
 }
 
 a p {
