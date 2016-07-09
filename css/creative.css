@@ -522,8 +522,10 @@ font-size: 1.2em;
 }
 
 #my-projects-h2{
-  margin-bottom: 2%;
+  /*margin-bottom: 2%;*/
   font-weight: 700;
+  color: white;
+  text-align: center;
 }
 
 #bootstrap-icon{
@@ -570,6 +572,9 @@ font-size: 1.2em;
   font-family: Chintzy;
 }
 
+#gradient-banner {
+  width: 100vw;
+}
 [id="services"] .row {
   margin-bottom: 3%;
 }
@@ -580,7 +585,7 @@ font-size: 1.2em;
 
 .technologies-icons {
   border-bottom: 1px solid black;
-padding-bottom: 0.5%
+  padding-bottom: 0.5%
 }
 
 .technologies-icons li {
