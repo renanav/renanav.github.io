@@ -522,7 +522,7 @@ font-size: 1.2em;
     width: 100vw;
 }*/
 
-#gradient-banner {
+.gradient-banner {
   width: 100vw;
 }
 
@@ -635,6 +635,6 @@ a p {
   color: black;
 }
 
-a p:hover {
+/*a p:hover {
   color: #1a1aff;
-}
+}*/
