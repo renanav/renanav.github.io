@@ -561,6 +561,7 @@ font-size: 1.2em;
 #love{
   color:red;
   font-size: 1.8em;
+  border-bottom: 1px solid white;
 }
 
 @font-face{
