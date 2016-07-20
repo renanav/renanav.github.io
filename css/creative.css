@@ -618,11 +618,7 @@ div div img {
 }
 
 .content-paragraph {
-  text-align: justify !important;
-}
-
-#matrix-paragraph {
-  text-align: center;
+  text-align: left !important;
 }
 
 .fa-github {
