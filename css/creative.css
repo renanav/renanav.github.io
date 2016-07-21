@@ -526,6 +526,9 @@ font-size: 1.2em;
 
 .gradient-banner {
   width: 100vw;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
 }
 
 #bootstrap-icon{
@@ -548,7 +551,7 @@ font-size: 1.2em;
 }
 
 #services{
-  background-color: black;
+  background-color: #38353a;
   /*margin-top: 2px;
   border-top-style: ridge;
   border-top-color: firebrick;
